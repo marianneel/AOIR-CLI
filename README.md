@@ -15,9 +15,4 @@ At the darth mall!
 Waarom gaan biologen en informatici zo goed samen?
 De bioloog zoekt naar bugs in de natuur, en de informaticus probeert ze uit de code te halen.
 
-Why was the negative-sense DNA angry at the positive-sense DNA?
-Because he was left stranded!
-
-Wat zegt een eend als hij tegen de muur loopt? KWAK.
-
-Waarom zijn toiletten altijd zo goed in poker? - Ze krijgen altijd een flush
+What do you call software that kills some one? Code-blooded murderer
